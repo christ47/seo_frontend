@@ -1,0 +1,28 @@
+{
+  "name": "seo-project",
+  "version": "1.0.0",
+  "description": "SEO demo site",
+  "main": "app.js",
+  "scripts": {
+    "test": "No current Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal.github.com:christ47/playTime.git to be changed"
+  },
+  "author": "christ47",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.7.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.0",
+    "mongoose": "^5.7.7",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "passport-local": "^1.0.0"
+  }
+}
